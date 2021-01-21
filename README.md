@@ -7,7 +7,7 @@ The eGroupAI face recognition SDK is the simplest SDK in the world, this project
 
 # Sample code
 * [QuickStart-JAVA](https://github.com/eGroupTeam/eGroupAI-faceRecognition-JAVA)
-* [QuickStart-C#](https://github.com/eGroupTeam/eGroupAI-faceRecognition-C#)
+* [QuickStart-C#](https://github.com/eGroupTeam/eGroupAI-faceRecognition-CSharp)
 * Comming soon
   * Python
   * PHP 
