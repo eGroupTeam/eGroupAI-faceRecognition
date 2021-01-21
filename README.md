@@ -12,5 +12,13 @@ The eGroupAI face recognition SDK is the simplest SDK in the world, this project
   * Python
   * PHP 
   
-# Technical Support 
-* Email : egroup.daniel@gmail.com
+# Contact 
+* Consultation
+  * Contact us for more information
+  * Face recognition technology licensing
+  * Solutions
+  * Online discussion
+* eGroupAI Team 
+  * egroup.daniel@gmail.com
+  * eGroup co.,ltd
+    * No. 47, Sec. 2, Xinhai Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)
